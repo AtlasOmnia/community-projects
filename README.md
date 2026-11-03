@@ -48,6 +48,12 @@ A source-linked directory of projects shared in the Nous Research Discord's [`#c
 | [TaskFuel image workflows](https://taskfuel.ai/blog/image-generation-models-for-ai-agents/) | Hosted image-generation workflow service for agent-directed image tasks and approval-gated production. This is a commercial service, not a public code project in the showcase post. | [Product app](https://app.taskfuel.ai/) · [Discord post](https://discord.com/channels/1053877538025386074/1316137596535177246/1542092953680609350) | Hosted commercial service |
 | [LLM Judge, Jury & Executioner](https://github.com/Sahil-SS9/llm-judge-jury-executioner) | Multi-model deliberation and validation council with independent review, cross-examination, dissent, and audit artifacts; skill-compatible and available as a standalone CLI. | [Repository](https://github.com/Sahil-SS9/llm-judge-jury-executioner) | MIT |
 
+## Diagnostics and observability
+
+| Project | What it is | Source | License / status |
+| --- | --- | --- | --- |
+| [TraceNote](https://github.com/hanhan1137/tracenote-pilot) | Assisted, single-machine Hermes connection diagnostics with readable reports separating configuration, collector health, ingestion evidence, and report freshness. | [Pilot scope and contact](https://github.com/hanhan1137/tracenote-pilot) | Commercial assisted pilot; introduction-only repository, not a self-serve release |
+
 ## Contribute an entry
 
 Open a pull request with:
