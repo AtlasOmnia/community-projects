@@ -14,6 +14,7 @@ A source-linked directory of projects shared in the Nous Research Discord's [`#c
 | [Hermes Watch](https://github.com/Jackal991/hermes-watch) | Wear OS push-to-talk client that reaches a self-hosted Hermes backend through the phone’s Tailscale connection. | [Repository](https://github.com/Jackal991/hermes-watch) | MIT |
 | [Hermes WebUI](https://github.com/nesquena/hermes-webui) | Web and mobile-oriented interface for Hermes Agent, with a companion macOS project. | [macOS releases](https://github.com/hermes-webui/hermes-swift-mac/releases) · [Community site](https://get-hermes.ai/community) · [Discord post](https://discord.com/channels/1053877538025386074/1316137596535177246/1493017427724992612) | MIT for `hermes-webui`; review companion project separately |
 | [Mercury](https://github.com/unsupportedpastels/mercury) | Free, open-source Android and iOS companion clients for Hermes Agent. The original showcase post called the project HAM; the linked repository now identifies it as Mercury. | [Discord post](https://discord.com/channels/1053877538025386074/1316137596535177246/1538067050444886046) | MIT |
+| [Pomelu](https://github.com/ateymoori/pomelu) | Open-source Flutter mobile client for a self-hosted Hermes Agent, with a messenger-style chat, voice notes, images, files and one-tap command approvals; Android app on Google Play. | [Repository](https://github.com/ateymoori/pomelu) · [Releases](https://github.com/ateymoori/pomelu/releases) | Apache-2.0 |
 
 ## Desktop and developer tooling
 
